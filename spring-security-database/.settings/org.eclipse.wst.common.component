@@ -2,7 +2,7 @@
     <wb-module deploy-name="spring-security-database">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="spring-security-database"/>
         <property name="java-output-path" value="/spring-security-database/build/classes"/>
+        <property name="context-root" value="awpl"/>
     </wb-module>
 </project-modules>
